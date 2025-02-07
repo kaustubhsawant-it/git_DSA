@@ -4,7 +4,7 @@
 2 2 
 3 3 3
  */
-public class p4 
+public class h4 
 {
     public static void main(String[] args)
     {
