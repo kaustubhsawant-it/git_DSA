@@ -7,7 +7,7 @@
  *
  */
 
-public class h9 
+public class h09 
 {
     public static void nStarDiamond(int n) 
     {

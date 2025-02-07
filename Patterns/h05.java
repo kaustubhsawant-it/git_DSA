@@ -1,19 +1,18 @@
-//Patterns Question 1
-/* 
-Output: 
+//5:  
+/*
 * * *
-* * *
-* * *
-*/
+* *
+*
 
-public class h1
+*/
+public class h05 
 {
     public static void main(String[] args)
     {
-        int n= 4;
-        for(int x =1;x<=n;x++)
+        int n=3;
+        for(int i=n;i>=1;i--)
         {
-            for(int y=1;y<=n;y++)
+            for(int j=i;j>=1;j--)
             {
                 System.out.print("* ");
             }

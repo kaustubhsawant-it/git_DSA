@@ -6,7 +6,7 @@
 
  */
 
-public class h3 {
+public class h03 {
     public static void main(String[] args) {
         {
             int n=3;

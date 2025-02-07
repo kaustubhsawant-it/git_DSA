@@ -1,4 +1,4 @@
-public class h6 
+public class h06 
 {
     public static void nNumberTriangle(int n) 
     {

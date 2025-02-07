@@ -5,7 +5,7 @@
 * * *  
 */
 
-public class h2 
+public class h02 
 {
     public static void main(String[] args)
     {

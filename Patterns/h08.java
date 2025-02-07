@@ -1,22 +1,24 @@
-public class h7 
+public class h08 
 {
 	public static void nStarTriangle(int n) 
 	{
-		for(int x=1;x<=n;x++)
+		int space=1;
+		for(int i=n;i>=1;i--)
 		{
-			for(int k=n-1;k>=x;k--)
-			{
-				System.out.print(" ");
-			}
-			for(int y=1;y<=(2*x-1);y++)
+			for(int j=(2*(i)-1);j>=1;j--)
 			{
 				System.out.print("*");
 			}
 			System.out.println();
+			for(int k=1;k<=space;k++)
+			{
+				System.out.print(" ");
+			}
+			space++;
 		}
-    	}
+    }
 	public static void main(String[] args)
 	{
 		nStarTriangle(3);
-	}	
+	}
 }
